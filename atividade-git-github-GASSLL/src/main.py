@@ -30,8 +30,9 @@ def lerNota():
             valor = float(entrada)
             validarNota(valor)
             return valor
-        except:
-            print(f"Entrada invalida")
+        except ValueError:
+            print("Erro: nota inválida")
+ 
 
 
 def main():
@@ -49,3 +50,5 @@ def main():
     print(f"  Notas    : {A}  {B:.1f}  {C:.1f}  {D:.1f}")
     print(f"  Média    : {media:.2f}")
     print(f"  Situação : {resultado}")
+
+main()

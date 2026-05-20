@@ -38,10 +38,10 @@ git commit -m "mensagem descritiva"
 git push
 
 # Branches
-git switch -c melhoria-ux
-git push -u origin melhoria-ux
-git switch main
-git merge melhoria-ux
+git switch -c validacao
+git push -u origin validacao
+git switch master
+git merge validacao
 git push
 
 # Histórico
