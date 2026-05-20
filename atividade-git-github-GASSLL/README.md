@@ -49,7 +49,7 @@ git log --oneline
 git log --oneline --graph --all
 
 # Clonar em outra pasta (teste)
-gh repo clone aluno-fag/atividade-git-github-calculadora teste-clone
+gh repo clone usuario/atividade-git-github-GASSLL teste-clone
 ```
 
 ---
