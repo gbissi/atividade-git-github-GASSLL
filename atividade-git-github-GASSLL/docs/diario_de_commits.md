@@ -31,3 +31,11 @@ Commit 5 — Criação do README completo e diário de commits
 Criação do README.md com todas as informações do projeto e do
 diariodecommits.md com o registro detalhado de cada etapa
 do desenvolvimento.
+
+Commit 6 - Corrigir erros do projeto
+Tratação de exceções utilizando ValueError.
+Adicionando o main() no código.
+Atualização de comandos da branch.
+
+Commit 7 - Correção do clone do README.md  
+Correção do comando clone que estava incorreto.

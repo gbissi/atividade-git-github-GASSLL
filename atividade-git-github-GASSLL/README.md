@@ -78,3 +78,12 @@ Quinto commit — Criação do README completo e diário de commits
 Criação deste README.md com descrição, integrantes, como executar,
 comandos Git utilizados e histórico de desenvolvimento. 
 Criação do diario de commits com o registro detalhado de cada commit.
+
+
+Commit 6 - Corrigir erros do projeto
+Tratação de exceções utilizando ValueError.
+Adicionando o main() no código.
+Atualização de comandos da branch.
+
+Commit 7 - Correção do clone do README.md  
+Correção do comando clone que estava incorreto.
